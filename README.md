@@ -18,7 +18,7 @@ This directory contains the code for a simple To-Do List web application. The ap
 To use the To-Do List web application, open the `index.html` file in your web browser.
 
 ## Glance
-![image](https://github.com/devanshrautela/Landing-Page/blob/main/index.png)
+![image]([https://github.com/devanshrautela/Landing-Page/blob/main/index.png](https://github.com/devanshrautela/ToDo-List/blob/main/index.png))
 
 ## Contributing
 If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request. We welcome any improvements or bug fixes.
